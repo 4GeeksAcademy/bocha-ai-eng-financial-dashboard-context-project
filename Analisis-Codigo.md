@@ -50,4 +50,4 @@ Revisión del código del backend (FastAPI) y frontend (React + TypeScript) iden
 | Seguridad | — | CORS `*` + credentials, debugger expuesto por defecto |
 | Manejo de errores | Estados loading/error explícitos en UI | Error real descartado, sin validación de rango de fechas |
 
-Ver las reglas propuestas para mitigar estos riesgos en [.agents/rules/code-quality.md](.agents/rules/code-quality.md).
+Ver las reglas propuestas para mitigar estos riesgos en [.agents/rules/](.agents/rules/README.md).
